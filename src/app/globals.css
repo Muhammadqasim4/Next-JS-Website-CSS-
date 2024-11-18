@@ -228,8 +228,8 @@ background-color: #f8f9fa; /* Light background */
 .main {
   flex-grow: 1;
   max-width: 1200px;
-  margin-left: 40px;
-  margin-right: 10 ;
+  margin-left: 0px;
+  margin-right: 0px ;
   padding: 1rem;
 }
 
